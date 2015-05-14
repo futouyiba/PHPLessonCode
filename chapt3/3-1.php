@@ -1,0 +1,11 @@
+<!--文件3-1.php：PHP测试程序-->
+<HTML>
+<HEAD>
+<TITLE>PHP环境信息</TITLE>
+</HEAD>
+<BODY>
+  <?php
+    phpinfo();
+  ?>
+</BODY>
+</HTML>

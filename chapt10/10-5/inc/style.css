@@ -1,0 +1,215 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+A {
+	TEXT-DECORATION: none
+}
+A:link {
+	COLOR: #282828; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #282828; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ff5900; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: #ff5900; TEXT-DECORATION: underline
+}
+.menu_a:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.menu_a:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.menu_a:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.menu_big_a:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.menu_big_a:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.menu_big_a:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+.menu_big_b:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #3c3c3c; TEXT-DECORATION: none
+}
+.menu_big_b:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #3c3c3c; TEXT-DECORATION: none
+}
+.menu_big_b:hover {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #3c3c3c; TEXT-DECORATION: none
+}
+.menu_tb {
+	COLOR: #ffffff; BACKGROUND-COLOR: #ff5a01
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px
+}
+TD {
+	FONT-SIZE: 12px
+}
+TH {
+	FONT-SIZE: 12px
+}
+.pers_tb {
+	BORDER-RIGHT: #c9c9c9 1px solid; BORDER-LEFT: #c9c9c9 1px solid
+}
+.bg_color {
+	BACKGROUND-COLOR: #f0f0f0
+}
+.bgcolor_02 {
+	BACKGROUND-COLOR: #ff5900
+}
+.bgcolor_03 {
+	BACKGROUND-COLOR: #e5e5e5
+}
+.bgcolor_04 {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.bgcolor_05 {
+	BACKGROUND-COLOR: #ffffff
+}
+.border_01 {
+	BORDER-BOTTOM: #e8e8e8 2px solid
+}
+.font14bold {
+	PADDING-LEFT: 15px; FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; PADDING-TOP: 2px; BACKGROUND-COLOR: #ff5900
+}
+.comp_tb {
+	BORDER-RIGHT: #c9c9c9 1px solid; BORDER-LEFT: #c9c9c9 1px solid
+}
+.info_tb {
+	BORDER-RIGHT: #c9c9c9 1px solid; BORDER-LEFT: #c9c9c9 1px solid
+}
+.table_H {
+	BORDER-RIGHT: #ff6801 1px solid; BORDER-TOP: #ff6801 1px; BORDER-LEFT: #ff6801 1px solid; BORDER-BOTTOM: #ff6801 1px solid
+}
+.table_W {
+	BORDER-RIGHT: #fa961e 1px solid; BORDER-TOP: #fa961e 1px; BORDER-LEFT: #fa961e 1px solid; BORDER-BOTTOM: #fa961e 1px solid
+}
+.pt12 {
+	FONT-SIZE: 12px; COLOR: #333333; LINE-HEIGHT: 20px; TEXT-DECORATION: none
+}
+.menu_main {
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(http://www.liecai.com/rencai1/images/default/menu/mbg.gif); COLOR: #000000; TEXT-DECORATION: underline
+}
+.menu_sec {
+	FONT-SIZE: 12px; COLOR: #ffffff; BACKGROUND-COLOR: #ff6800; TEXT-DECORATION: none
+}
+.menu_sec2 {
+	FONT-SIZE: 12px; COLOR: #ffffff; BACKGROUND-COLOR: #ffb200; TEXT-DECORATION: none
+}
+.menu_sec3 {
+	FONT-SIZE: 12px; COLOR: #ffffff; BACKGROUND-COLOR: #728bb0; TEXT-DECORATION: none
+}
+.menu_sec4 {
+	FONT-SIZE: 12px; COLOR: #ffffff; BACKGROUND-COLOR: #b57a00; TEXT-DECORATION: none
+}
+.menu_sec5 {
+	FONT-SIZE: 12px; COLOR: #ffffff; BACKGROUND-COLOR: #ff9900; TEXT-DECORATION: none
+}
+.menu_space {
+	BACKGROUND-COLOR: #ffffff
+}
+.rowline_false {
+	BORDER-BOTTOM: #999999 1px dotted
+}
+.tableborder {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BACKGROUND-COLOR: #efefef
+}
+.categround {
+	FONT-WEIGHT: normal; COLOR: #ffffff; BACKGROUND-COLOR: #ff6800
+}
+.titleground {
+	FONT-WEIGHT: normal; COLOR: #000000; BACKGROUND-COLOR: #f0f0f0
+}
+.contentground {
+	COLOR: #000000; WORD-BREAK: break-all; BACKGROUND-COLOR: #ffffff
+}
+.changeground {
+	COLOR: #000000; WORD-BREAK: break-all; BACKGROUND-COLOR: #f8f8f8
+}
+.lineline {
+	BORDER-RIGHT: #ffffff 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.tableborder2 {
+	BORDER-RIGHT: #ffb200 1px solid; BORDER-TOP: #ffb200 1px solid; BORDER-LEFT: #ffb200 1px solid; BORDER-BOTTOM: #ffb200 1px solid; BACKGROUND-COLOR: #efefef
+}
+.categround2 {
+	FONT-WEIGHT: normal; COLOR: #ffffff; BACKGROUND-COLOR: #ffb200
+}
+.titleground2 {
+	FONT-WEIGHT: normal; COLOR: #000000; BACKGROUND-COLOR: #f0f0f0
+}
+.contentground2 {
+	COLOR: #000000; WORD-BREAK: break-all; BACKGROUND-COLOR: #ffffff
+}
+.changeground2 {
+	COLOR: #000000; WORD-BREAK: break-all; BACKGROUND-COLOR: #f8f8f8
+}
+.lineline2 {
+	BORDER-RIGHT: #ffb200 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.tableborder3 {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: 0px; BACKGROUND-COLOR: #efefef
+}
+.categround3 {
+	FONT-WEIGHT: normal; COLOR: #ffffff; BACKGROUND-COLOR: #728bb0
+}
+.titleground3 {
+	FONT-WEIGHT: normal; COLOR: #000000; BACKGROUND-COLOR: #f0f0f0
+}
+.contentground3 {
+	COLOR: #000000; WORD-BREAK: break-all; BACKGROUND-COLOR: #ffffff
+}
+.changeground3 {
+	COLOR: #000000; WORD-BREAK: break-all; BACKGROUND-COLOR: #f8f8f8
+}
+.lineline3 {
+	BORDER-RIGHT: #728bb0 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.tableborder4 {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.categround4 {
+	FONT-WEIGHT: normal; COLOR: #000000; BACKGROUND-COLOR: #ededed
+}
+.titleground4 {
+	FONT-WEIGHT: normal; COLOR: #000000; BACKGROUND-COLOR: #f0f0f0
+}
+.contentground4 {
+	COLOR: #000000; WORD-BREAK: break-all; BACKGROUND-COLOR: #ffffff
+}
+.changeground4 {
+	COLOR: #000000; WORD-BREAK: break-all; BACKGROUND-COLOR: #f8f8f8
+}
+.lineline4 {
+	BORDER-RIGHT: #b57a00 1px solid; BACKGROUND-COLOR: #ffffff
+}
+.article_title {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #000000; WORD-BREAK: break-all; FONT-FAMILY: Tahoma,Verdana
+}
+.textground {
+	FONT-SIZE: 14px; COLOR: #000000; WORD-BREAK: break-all; LINE-HEIGHT: 25px; FONT-FAMILY: Tahoma,Verdana
+}
+.tableborder_footer {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; BORDER-BOTTOM: #ffffff 1px solid; BACKGROUND-COLOR: #efefef
+}
+.titleground_footer {
+	COLOR: #ffffff; BACKGROUND-COLOR: #666666
+}
+.contentgrond_footer {
+	COLOR: #000000; BACKGROUND-COLOR: #ffffff
+}
+.info_tb {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 22px
+}
+.mainTable {
+	BACKGROUND-COLOR: #ff5a01
+}

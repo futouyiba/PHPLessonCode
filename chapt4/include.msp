@@ -1,0 +1,4 @@
+<!--程序include.msp：被“4-4.php”文件所引用的引用-->
+<?php
+     echo "这是从“include.msp”文件中输出的！";
+?>
